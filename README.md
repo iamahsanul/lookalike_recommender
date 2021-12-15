@@ -3,6 +3,7 @@ A Python based project that experiments on different machine learning techniques
 
 # Prerequisites
 - Python3.7
+- Packages: numpy, pandas, matplotlib, sklearn, nltk, keras, tensorflow
 - Appropriately formated data (no data is given here due to copyright issue)
 
 # Algorithm description
